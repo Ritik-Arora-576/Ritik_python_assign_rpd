@@ -17,6 +17,6 @@
 **MySQLdb**: Used to store tabular data i.e .csv file data into MySQL databases.<br>
 
 ### Result got in Correlation matrix:
-![Capture](https://user-images.githubusercontent.com/68052449/135028278-58e0fe22-ba37-42fa-bcf2-edcdc1e1838b.PNG)
+![Capture](https://user-images.githubusercontent.com/68052449/135028278-58e0fe22-ba37-42fa-bcf2-edcdc1e1838b.PNG){:height="50%" width="50%"}
 
 
