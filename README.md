@@ -10,9 +10,9 @@
 *pip install -r requirement.txt*
 
 ### Libraries:
-**Pandas**: Used to extract data from .csv file and also use for preprocessing data which is stored in tabular form and store that tabular data into another .csv file.
-**Matplotlib**: Used to plot graphs, bars and other statistical data.
-**Seaborn**: Used to plot heatmap and other kinds of interactive graphs.
-**csv**: Used to read data stored in .csv format.
-**MySQLdb**: Used to store tabular data i.e .csv file data into MySQL databases.
+**Pandas**: Used to extract data from .csv file and also use for preprocessing data which is stored in tabular form and store that tabular data into another .csv file.<br>
+**Matplotlib**: Used to plot graphs, bars and other statistical data.<br>
+**Seaborn**: Used to plot heatmap and other kinds of interactive graphs.<br>
+**csv**: Used to read data stored in .csv format.<br>
+**MySQLdb**: Used to store tabular data i.e .csv file data into MySQL databases.<br>
 
